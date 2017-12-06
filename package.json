@@ -4,7 +4,7 @@
   "description": "Node module that prints 'Hello World!'",
   "main": "main.js",
   "scripts": {
-    "test": "mocha --reporter nyan"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
