@@ -1,0 +1,20 @@
+{
+  "name": "sayhelloworldjs",
+  "version": "0.1.0",
+  "description": "Node module that prints 'Hello World!'",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAmazingRak/Node-HelloWorld-Module.git"
+  },
+  "author": "Tomasz Nieżurawski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheAmazingRak/Node-HelloWorld-Module/issues"
+  },
+  "homepage": "https://github.com/TheAmazingRak/Node-HelloWorld-Module#readme",
+  "devDependencies": {}
+}
