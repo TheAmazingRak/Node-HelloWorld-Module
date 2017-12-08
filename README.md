@@ -7,7 +7,7 @@ It writes "Hello World!".
 OR
 Download or clone this repo. Inside your project create a folder named ```node_modules``` and put this repo inside it. That's it!
 
-# Usage
+# How to use
 ```javascript
 const sayhello = require('sayhelloworldjs');
 sayhello.hello();
